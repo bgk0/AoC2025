@@ -1,5 +1,5 @@
 def return_data():
-    f = open(r'D:\MAC\Python\AdventOfCode\2025\Day 1\full.txt')
+    f = open(r'\AdventOfCode\2025\Day 1\full.txt')
     data = []
     for line in f:
         s_line = line.strip()
